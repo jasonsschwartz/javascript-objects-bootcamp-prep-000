@@ -11,5 +11,5 @@ test.greet.mean = "what do you want"
 test.reply = "how are you?"
 
 console.log(test)
-console.log(test.greet.nice)
+console.log(test.greet.mean)
 console.log(test.reply)
